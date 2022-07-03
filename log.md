@@ -1,13 +1,37 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 0: July 02, 2022 
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Today's Progress**: Started to Learn C# by Reading and working on the Examples. 
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Thoughts:** Created a simple UI Windows App that displays name in a Pop up. Its fun.
+
+**Link to work:** [Simple UI App](https://github.com/arun-dvlpr01123/HelloApp)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
